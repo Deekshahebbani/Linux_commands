@@ -1,0 +1,23 @@
+﻿Commands used in Linux are,
+pwd (print working directory):-
+                Tells which directory we are currently located in.
+ls (list contents):-
+         Gives listing of everything that is in the current directory.
+cd(create directory):-
+              Used for navigation between directories and folder.
+     *cd takes into the folder.
+     *cd ..  takes back to the previous directory that you were focused copy files on.
+     *cd / takes you to the root directory.
+4. cp(copy files):-
+               Used for copying files.
+rm(remove):-
+          Remove or delete files in current directory.
+mkdir(make directory):-
+       create a new directory.
+rmdir(remove directory):-
+         delete an empty directory.
+  *rm –r directory-name delete an non empty directory.
+clear:-
+       To clear the screen.
+man(manual):-
+   to get information on any command in linux.      
