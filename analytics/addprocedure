@@ -1,0 +1,10 @@
+Create a text file with all examples in the video
+
+Create a repository on GitHub and follow steps in this link: https://help.github.com/articles/create-a-repo/
+And commit a text file to repository follow below steps:
+
+open terminal 
+Step-1: git clone <repository link from GitHub site>
+Step-2: git add <your commands file path>
+Step-3: git commit -m "comment for your file"
+Step-4: git push origin master
